@@ -54,6 +54,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 - Email: philipmachar788@gmail.com
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/philip-machar-06029230a/)
+- LinkedIn: [My Profile](https://www.linkedin.com/in/philip-machar-06029230a/)
 
 
