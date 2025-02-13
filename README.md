@@ -5,6 +5,7 @@ This web application allows users to recognize songs through both direct audio i
 
 ![Vibenoma Screenshot](./images/vibenoma-screenshot.png)  
 
+## 🌍 Live Demo
 [Live Demo](https://vibenoma-frontend.vercel.app/) 
 
 ## 🚀 Features
@@ -20,10 +21,6 @@ This web application allows users to recognize songs through both direct audio i
 - **APIs**:
   - ACRCloud API (Melody & Song Recognition)
   - Africa's Talking SMS API (Song Details Notification)
-- **Deployment**: (Add details if deployed on Vercel, Netlify, etc.)
-
-## 🌍 Live Demo
-[Live Demo](#) <!-- Replace `#` with your live demo URL -->
 
 ## 📖 Setup & Installation
 1. **Clone the repository**:
@@ -48,15 +45,6 @@ This web application allows users to recognize songs through both direct audio i
 5. **Open in browser**:
    - Visit `http://localhost:5173/` (or the specified port in your setup)
 
-## 📸 Screenshots
-(Add screenshots/gifs of the UI here)
-
-## 🔮 Future Enhancements
-- 🌍 Support for multiple languages.
-- 📊 Advanced analytics on song searches.
-- 🤖 AI-powered recommendations based on user searches.
-- 📻 Integration with music streaming services.
-
 ## 🏆 Credits
 - **Developer**: Philip Machar
 - **APIs Used**: ACRCloud, Africa's Talking
@@ -65,7 +53,7 @@ This web application allows users to recognize songs through both direct audio i
 This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: philipmachar788@gmail.com
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/philip-machar-06029230a/)
+
 
