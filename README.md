@@ -3,6 +3,10 @@
 ## 📌 Overview
 This web application allows users to recognize songs through both direct audio input and humming/mumbling/whistling/singing etc. It leverages the ACRCloud API for melody detection and Africa's Talking SMS service for song sharing. The app functions similarly to Shazam but includes melody recognition through humming/mumbling/whistling/singing.
 
+![Vibenoma Screenshot](./images/vibenoma-screenshot.png)  
+
+[Live Demo](https://vibenoma-frontend.vercel.app/) 
+
 ## 🚀 Features
 - 🎤 **Song Recognition**: Identify songs from recorded or live audio.
 - 🎶 **Melody Recognition**: Recognize songs by humming/mumbling/whistling/singing.
