@@ -17,10 +17,10 @@ This web application allows users to recognize songs through both direct audio i
 
 ## 🛠️ Tech Stack
 - **Frontend**: Vite, React, Tailwind CSS
-- **Backend**: Node.js (if applicable)
+- **Backend**: Node.js, Express.js
 - **APIs**:
   - ACRCloud API (Melody & Song Recognition)
-  - Africa's Talking SMS API (Song Details Notification)
+  - Africa's Talking SMS API (Song Details Sharing)
 
 ## 📖 Setup & Installation
 1. **Clone the repository**:
